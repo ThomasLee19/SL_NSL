@@ -1,0 +1,29 @@
+# Ignore virtual environment
+rf-nsl-env/
+
+# Ignore dataset files
+dataset/
+
+# Ignore Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment configuration files
+.env
+.venv
+*.env
+
+# Ignore log files
+*.log
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore vscode setting
+.vscode/
